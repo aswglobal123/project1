@@ -4,7 +4,8 @@ package ecommerce.batch8testng;
 		import org.openqa.selenium.WebElement;
 		import org.openqa.selenium.support.FindBy;
 		import org.openqa.selenium.support.PageFactory;
-
+// change 
+		
 		public class HomeAmazon {
 			// this is  under testng fram work   we  create 2  project  one amazon home  2nd registration 
 			 //  we need to compile   testng class  helping with  home amazon .java class  we need to call from 
